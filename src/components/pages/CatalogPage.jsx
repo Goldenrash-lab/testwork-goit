@@ -77,7 +77,7 @@ const CatalogPage = () => {
         {cars ? (
           <CarsList filtered={filtersCars()} />
         ) : (
-          <NotFound>Not Found</NotFound>
+          <NotFound>Not Found!</NotFound>
         )}
 
         {responseTotal?.length === 12 && (
