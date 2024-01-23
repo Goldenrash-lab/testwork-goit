@@ -14,6 +14,7 @@ import {
 } from "redux-persist";
 import storage from "redux-persist/lib/storage"; // defaults to localStorage for web
 import { catReducer } from "./categories/slice";
+import { loaderReducer } from "./loader/slice";
 
 const persistConfig = {
   key: "favCars",
@@ -27,6 +28,7 @@ export const store = configureStore({
     cars: carsReducer,
     favCars: persistedReducer,
     categories: catReducer,
+    loader: loaderReducer,
   },
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware({

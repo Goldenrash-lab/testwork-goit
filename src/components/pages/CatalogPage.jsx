@@ -6,6 +6,8 @@ import { getAllCar, getAllCarWithFilteres } from "../../store/cars/thunk";
 import { selectCars } from "../../store/cars/selectors";
 import { LoadMore } from "../CarsList/CarList.styled";
 import { changePage } from "../../store/cars/slice";
+import { NotFound } from "./CatalogPage.styled";
+import { toast } from "react-toastify";
 
 const LIMIT = 12;
 
@@ -36,7 +38,7 @@ const CatalogPage = () => {
         .then((res) => {
           setResponseTotal(res);
         })
-        .catch((error) => console.log(error));
+        .catch((error) => toast.error(error));
     } else {
       dispatch(changePage(page));
       dispatch(getAllCar(queryParams))
@@ -44,7 +46,9 @@ const CatalogPage = () => {
         .then((res) => {
           setResponseTotal(res);
         })
-        .catch((error) => console.log(error));
+        .catch((error) => {
+          toast.error(error);
+        });
     }
   }, [dispatch, page, query]);
 
@@ -71,7 +75,11 @@ const CatalogPage = () => {
     <>
       <section>
         <Filters filter={getFilter} />
-        {cars ? <CarsList filtered={filtersCars()} /> : <h1>Not Found</h1>}
+        {cars ? (
+          <CarsList filtered={filtersCars()} />
+        ) : (
+          <NotFound>Not Found</NotFound>
+        )}
 
         {responseTotal?.length === 12 && (
           <LoadMore type="button" onClick={() => setPage(page + 1)}>

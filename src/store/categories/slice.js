@@ -7,6 +7,7 @@ const catSlice = createSlice({
     categories: [],
     prices: [],
     isLoading: false,
+    error: null,
   },
   extraReducers: (builder) => {
     builder
@@ -22,8 +23,10 @@ const catSlice = createSlice({
         });
         state.isLoading = false;
       })
-      .addCase(getCategories.rejected, (state) => {
+      .addCase(getCategories.rejected, (state, { payload }) => {
         state.isLoading = false;
+
+        state.error = payload;
       });
   },
 });

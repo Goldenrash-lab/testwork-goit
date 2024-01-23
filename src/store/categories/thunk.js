@@ -8,7 +8,7 @@ export const getCategories = createAsyncThunk(
       const { data } = await axios.get("/cars");
       return data;
     } catch (error) {
-      thunkAPI.rejectWithValue(error.message);
+      return thunkAPI.rejectWithValue(error.message);
     }
   }
 );

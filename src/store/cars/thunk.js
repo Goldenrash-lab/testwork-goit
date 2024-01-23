@@ -10,7 +10,7 @@ export const getAllCar = createAsyncThunk(
       const { data } = await axios.get(`cars?p=${p}&l=${l}&orderBy=mileage`);
       return data;
     } catch (error) {
-      ThunkApi.rejectWithValue(error.message);
+      return ThunkApi.rejectWithValue(error.message);
     }
   }
 );
@@ -24,7 +24,7 @@ export const getAllCarWithFilteres = createAsyncThunk(
       );
       return data;
     } catch (error) {
-      ThunkApi.rejectWithValue(error.message);
+      return ThunkApi.rejectWithValue(error.message);
     }
   }
 );

@@ -19,6 +19,7 @@ import {
   selectCategories,
   selectPrices,
 } from "../../store/categories/selectors";
+import { toast } from "react-toastify";
 
 const Filters = ({ filter }) => {
   const [brands, setBrands] = useState([]);
@@ -28,7 +29,10 @@ const Filters = ({ filter }) => {
   const dispatch = useDispatch();
 
   useEffect(() => {
-    dispatch(getCategories());
+    dispatch(getCategories())
+      .unwrap()
+      .then(() => {})
+      .catch((error) => toast.error(error));
   }, [dispatch]);
 
   const categories = useSelector(selectCategories);

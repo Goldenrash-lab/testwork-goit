@@ -3,6 +3,8 @@ import CarsList from "../CarsList/CarsList";
 import { selectFavCars } from "../../store/favoritesCars/selectors";
 import { useCallback, useEffect, useState } from "react";
 import { getAllCar } from "../../store/cars/thunk";
+import { HeaderTitle, Message, StyledLink } from "./FavoritesPage.styled";
+import { toast } from "react-toastify";
 const FavoritesPage = () => {
   const favCars = useSelector(selectFavCars);
   const dispatch = useDispatch();
@@ -42,15 +44,23 @@ const FavoritesPage = () => {
       .unwrap()
       .then((res) => {
         addToFiltered(res);
-      });
+      })
+      .catch((error) => toast.error(error));
   }, [addToFiltered, dispatch]);
 
   // console.log("cars", cars);
 
   return (
     <section>
-      <h2>Your favorites cars:</h2>
-      {filtered && <CarsList filtered={filtered} checked={true} />}
+      {filtered && <HeaderTitle>Your favorites cars:</HeaderTitle>}
+      {filtered ? (
+        <CarsList filtered={filtered} checked={true} />
+      ) : (
+        <Message>
+          Please take your favorites cars
+          <StyledLink to={"/catalog"}>Go to Catalog</StyledLink>
+        </Message>
+      )}
     </section>
   );
 };

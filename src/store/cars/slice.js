@@ -27,9 +27,9 @@ const carSlice = createSlice({
             ? [...state.cars, ...payload]
             : (state.cars = payload);
       })
-      .addCase(getAllCar.rejected, (state, { payload }) => {
+      .addCase(getAllCar.rejected, (state, action) => {
         state.isLoading = false;
-        state.error = payload;
+        state.error = action.payload;
       })
       .addCase(getAllCarWithFilteres.pending, (state) => {
         state.isLoading = true;
@@ -38,8 +38,8 @@ const carSlice = createSlice({
         state.isLoading = false;
         state.cars = payload;
       })
-      .addCase(getAllCarWithFilteres.rejected, (state) => {
-        state.isLoading = false;
+      .addCase(getAllCarWithFilteres.rejected, (state, { payload }) => {
+        (state.isLoading = false), (state.error = payload);
       });
   },
 });
