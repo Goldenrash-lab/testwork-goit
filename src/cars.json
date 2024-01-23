@@ -1,0 +1,838 @@
+[
+  {
+    "id": 9582,
+    "year": 2008,
+    "make": "Buick",
+    "model": "Enclave",
+    "type": "SUV",
+    "img": "https://images.unsplash.com/photo-1684849311625-c7155af9b2fa?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Buick Enclave is a stylish and spacious SUV known for its comfortable ride and luxurious features.",
+    "fuelConsumption": "10.5",
+    "engineSize": "3.6L V6",
+    "accessories": [
+      "Leather seats",
+      "Panoramic sunroof",
+      "Premium audio system"
+    ],
+    "functionalities": [
+      "Power liftgate",
+      "Remote start",
+      "Blind-spot monitoring"
+    ],
+    "rentalPrice": "$40",
+    "rentalCompany": "Luxury Car Rentals",
+    "address": "123 Example Street, Kiev, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 5858
+  },
+  {
+    "id": 9584,
+    "year": 2019,
+    "make": "Volvo",
+    "model": "XC90",
+    "type": "SUV",
+    "img": "https://images.unsplash.com/photo-1675733386678-cec5bc6f2b79?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Volvo XC90 is a premium SUV that offers exceptional safety, advanced technology, and elegant design.",
+    "fuelConsumption": "8.3",
+    "engineSize": "2.0L 4-cylinder",
+    "accessories": [
+      "Nappa leather seats",
+      "Bowers & Wilkins premium sound system",
+      "Head-up display"
+    ],
+    "functionalities": [
+      "IntelliSafe advanced safety features",
+      "Pilot Assist semi-autonomous driving",
+      "Four-zone automatic climate control"
+    ],
+    "rentalPrice": "$50",
+    "rentalCompany": "Premium Auto Rentals",
+    "address": "456 Example Avenue, Lviv, Ukraine",
+    "rentalConditions": "Minimum age: 21\nValid driver's license\nProof of insurance required",
+    "mileage": 5352
+  },
+  {
+    "id": 9586,
+    "year": 2020,
+    "make": "Volvo",
+    "model": "XC60",
+    "type": "SUV",
+    "img": "https://images.unsplash.com/photo-1557323137-bd6bd20fe022?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Volvo XC60 is a compact luxury SUV with a beautiful interior, strong performance, and advanced safety features.",
+    "fuelConsumption": "7.9",
+    "engineSize": "2.0L 4-cylinder",
+    "accessories": [
+      "Premium leather seats",
+      "Harman Kardon audio system",
+      "Hands-free power tailgate"
+    ],
+    "functionalities": [
+      "City Safety collision avoidance technology",
+      "Pilot Assist with adaptive cruise control",
+      "9-inch Sensus touchscreen infotainment system"
+    ],
+    "rentalPrice": "$45",
+    "rentalCompany": "Luxury Car Rentals",
+    "address": "789 Example Boulevard, Odessa, Ukraine",
+    "rentalConditions": "Minimum age: 23\nValid driver's license\nCredit card required",
+    "mileage": 5966
+  },
+  {
+    "id": 9587,
+    "year": 2006,
+    "make": "HUMMER",
+    "model": "H2",
+    "type": "SUV",
+    "img": "https://images.unsplash.com/photo-1578842795731-c4701423c87b?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The HUMMER H2 is a rugged and powerful SUV that stands out with its imposing presence and off-road capabilities.",
+    "fuelConsumption": "19.8",
+    "engineSize": "6.0L V8",
+    "accessories": [
+      "Heated leather seats",
+      "Bose premium sound system",
+      "Off-road package"
+    ],
+    "functionalities": [
+      "Electronic locking front and rear differentials",
+      "Stabilitrak stability control",
+      "Tire pressure monitoring system"
+    ],
+    "rentalPrice": "$55",
+    "rentalCompany": "Adventure Car Rentals",
+    "address": "321 Example Road, Kharkiv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 4771
+  },
+  {
+    "id": 9590,
+    "year": 2016,
+    "make": "Subaru",
+    "model": "Outback",
+    "type": "SUV",
+    "img": "https://images.unsplash.com/photo-1699264582441-b2dfc43bc096?q=80&w=1361&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Subaru Outback is a versatile and reliable SUV that combines off-road capability with a comfortable and spacious interior.",
+    "fuelConsumption": "8.7",
+    "engineSize": "2.5L 4-cylinder",
+    "accessories": [
+      "Leather upholstery",
+      "Power moonroof",
+      "Harman Kardon premium audio system"
+    ],
+    "functionalities": [
+      "Symmetrical All-Wheel Drive",
+      "X-Mode off-road assist",
+      "Subaru EyeSight driver-assist system"
+    ],
+    "rentalPrice": "$35",
+    "rentalCompany": "Adventure Car Rentals",
+    "address": "987 Example Street, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 21\nValid driver's license\nCredit card required",
+    "mileage": 4061
+  },
+  {
+    "id": 9591,
+    "year": 2010,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "type": "SUV",
+    "img": "https://images.unsplash.com/photo-1653842868388-cda3c1a3f06e?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Mitsubishi Outlander is a practical and fuel-efficient SUV with a stylish design and a range of modern features.",
+    "fuelConsumption": "7.9",
+    "engineSize": "2.4L 4-cylinder",
+    "accessories": [
+      "Heated front seats",
+      "Rockford Fosgate premium audio system",
+      "Power liftgate"
+    ],
+    "functionalities": [
+      "Super All-Wheel Control",
+      "Multi-View camera system",
+      "Bluetooth hands-free system"
+    ],
+    "rentalPrice": "$30",
+    "rentalCompany": "City Car Rentals",
+    "address": "654 Example Avenue, Lviv, Ukraine",
+    "rentalConditions": "Minimum age: 21\nValid driver's license\nProof of insurance required",
+    "mileage": 5374
+  },
+  {
+    "id": 9593,
+    "year": 2014,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "type": "SUV",
+    "img": "https://images.unsplash.com/photo-1549156512-41b188820ac5?q=80&w=1260&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Nissan Pathfinder is a versatile and family-friendly SUV that offers a comfortable ride and generous cargo space.",
+    "fuelConsumption": "9.5",
+    "engineSize": "3.5L V6",
+    "accessories": [
+      "Tri-Zone Automatic Climate Control",
+      "Bose premium audio system",
+      "Rear-seat entertainment system"
+    ],
+    "functionalities": [
+      "Intelligent 4x4 system",
+      "Advanced Drive-Assist Display",
+      "Nissan Intelligent Key with push-button ignition"
+    ],
+    "rentalPrice": "$40",
+    "rentalCompany": "Luxury Car Rentals",
+    "address": "321 Example Road, Odessa, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 6282
+  },
+  {
+    "id": 9596,
+    "year": 2009,
+    "make": "Lincoln",
+    "model": "Navigator L",
+    "type": "SUV",
+    "img": "https://images.unsplash.com/photo-1530955726961-a788ec4b4657?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Lincoln Navigator L is a luxurious and spacious SUV with a refined interior and advanced technology features.",
+    "fuelConsumption": "18.2",
+    "engineSize": "5.4L V8",
+    "accessories": [
+      "Premium leather seats",
+      "THX II Certified audio system",
+      "Power-deployable running boards"
+    ],
+    "functionalities": [
+      "AdvanceTrac with Roll Stability Control",
+      "Voice-Activated Navigation System",
+      "Power liftgate"
+    ],
+    "rentalPrice": "$50",
+    "rentalCompany": "Elite Car Rentals",
+    "address": "123 Example Boulevard, Kharkiv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nInsurance coverage required",
+    "mileage": 6173
+  },
+  {
+    "id": 9597,
+    "year": 2000,
+    "make": "GMC",
+    "model": "Yukon Denali",
+    "type": "SUV",
+    "img": "https://images.unsplash.com/photo-1598008533396-6bc9962f590b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The GMC Yukon Denali is a full-size luxury SUV that offers a powerful engine, a comfortable and spacious interior, and a host of advanced features.",
+    "fuelConsumption": "14.5",
+    "engineSize": "6.0L V8",
+    "accessories": [
+      "Heated and ventilated front seats",
+      "BOSE premium sound system",
+      "Power-folding third-row seats"
+    ],
+    "functionalities": [
+      "All-Wheel Drive",
+      "Adaptive suspension",
+      "Advanced safety features"
+    ],
+    "rentalPrice": "$45",
+    "rentalCompany": "Premium Car Rentals",
+    "address": "789 Example Square, Dnipro, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 4989
+  },
+  {
+    "id": 9598,
+    "year": 2007,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "type": "SUV",
+    "img": "https://images.unsplash.com/photo-1575090536203-2a6193126514?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Hyundai Tucson is a reliable and fuel-efficient SUV that combines practicality with a stylish design and a comfortable ride.",
+    "fuelConsumption": "8.2",
+    "engineSize": "2.0L 4-cylinder",
+    "accessories": [
+      "Apple CarPlay and Android Auto integration",
+      "Blind Spot Detection",
+      "Hands-free smart liftgate"
+    ],
+    "functionalities": [
+      "Front-Wheel Drive",
+      "Hillstart Assist Control",
+      "LED headlights"
+    ],
+    "rentalPrice": "$25",
+    "rentalCompany": "Economy Car Rentals",
+    "address": "456 Example Lane, Zaporizhzhia, Ukraine",
+    "rentalConditions": "Minimum age: 21\nValid driver's license\nCredit card required",
+    "mileage": 4591
+  },
+  {
+    "id": 9583,
+    "year": 2006,
+    "make": "MINI",
+    "model": "Convertible",
+    "type": "Convertible",
+    "img": "https://images.unsplash.com/photo-1634548128238-eb76cef6df17?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The MINI Convertible is a compact and fun-to-drive convertible that offers a unique and iconic design, agile handling, and an open-air driving experience.",
+    "fuelConsumption": "6.9",
+    "engineSize": "1.6L 4-cylinder",
+    "accessories": [
+      "Convertible soft top",
+      "Sport seats",
+      "MINI Connected infotainment system"
+    ],
+    "functionalities": [
+      "Front-Wheel Drive",
+      "Dynamic Stability Control",
+      "Rain-sensing wipers"
+    ],
+    "rentalPrice": "$30",
+    "rentalCompany": "Fun Car Rentals",
+    "address": "234 Example Place, Vinnytsia, Ukraine",
+    "rentalConditions": "Minimum age: 21\nValid driver's license\nProof of insurance required",
+    "mileage": 6275
+  },
+  {
+    "id": 9606,
+    "year": 2007,
+    "make": "Bentley",
+    "model": "Azure",
+    "type": "Convertible",
+    "img": "https://images.unsplash.com/photo-1566023888476-6f17e362fbb7?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Bentley Azure is a luxurious and prestigious convertible that combines exceptional craftsmanship, powerful performance, and sophisticated elegance.",
+    "fuelConsumption": "22.5",
+    "engineSize": "6.8L V8",
+    "accessories": [
+      "Mulliner Driving Specification",
+      "Naim for Bentley premium audio system",
+      "Heated steering wheel"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Air suspension",
+      "Automatic convertible roof"
+    ],
+    "rentalPrice": "$150",
+    "rentalCompany": "Luxury Car Rentals",
+    "address": "567 Example Street, Lviv, Ukraine",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nSecurity deposit and insurance required",
+    "mileage": 4317
+  },
+  {
+    "id": 9612,
+    "year": 2004,
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "type": "Convertible",
+    "img": "https://images.unsplash.com/photo-1570733577524-3a047079e80d?q=80&w=1293&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Mercedes-Benz SL-Class is a legendary luxury convertible that offers a perfect blend of thrilling performance, advanced technology, and opulent comfort.",
+    "fuelConsumption": "11.8",
+    "engineSize": "5.0L V8",
+    "accessories": [
+      "Airscarf neck-level heating",
+      "Harman Kardon premium audio system",
+      "Active Body Control suspension"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Retractable hardtop roof",
+      "Multi-contour seats"
+    ],
+    "rentalPrice": "$75",
+    "rentalCompany": "Exquisite Car Rentals",
+    "address": "789 Example Boulevard, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit and proof of insurance required",
+    "mileage": 5722
+  },
+  {
+    "id": 9616,
+    "year": 2010,
+    "make": "Aston Martin",
+    "model": "DBS",
+    "type": "Convertible",
+    "img": "https://images.unsplash.com/photo-1608340821332-3a73fadd890c?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Aston Martin DBS is a stunning and high-performance convertible that exemplifies British luxury and delivers exhilarating driving dynamics.",
+    "fuelConsumption": "16.5",
+    "engineSize": "6.0L V12",
+    "accessories": [
+      "Carbon Ceramic brakes",
+      "Bang & Olufsen BeoSound audio system",
+      "Bridge of Weir leather upholstery"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Carbon-fiber body panels",
+      "Adaptive Damping System"
+    ],
+    "rentalPrice": "$200",
+    "rentalCompany": "Supreme Car Rentals",
+    "address": "123 Example Avenue, Odessa, Ukraine",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nSecurity deposit and insurance required",
+    "mileage": 6464
+  },
+  {
+    "id": 9619,
+    "year": 1996,
+    "make": "Pontiac",
+    "model": "Firebird",
+    "type": "Convertible",
+    "img": "https://images.unsplash.com/photo-1577885423577-c92821de82d4?q=80&w=1395&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Pontiac Firebird is a classic American muscle car with bold styling, powerful engines, and an iconic presence that captures the essence of the golden era of performance.",
+    "fuelConsumption": "15.2",
+    "engineSize": "5.7L V8",
+    "accessories": [
+      "T-Top roof",
+      "Delco premium audio system",
+      "Sport suspension"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Limited-slip differential",
+      "High-performance exhaust"
+    ],
+    "rentalPrice": "$50",
+    "rentalCompany": "Classic Car Rentals",
+    "address": "456 Example Street, Lviv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 5091
+  },
+  {
+    "id": 9629,
+    "year": 2009,
+    "make": "Lamborghini",
+    "model": "Murcielago",
+    "type": "Convertible",
+    "img": "https://images.unsplash.com/photo-1580414057403-c5f451f30e1c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Lamborghini Murcielago is an exotic and high-performance convertible that represents the epitome of Italian automotive engineering, combining breathtaking design, blistering speed, and a spine-tingling exhaust note.",
+    "fuelConsumption": "25.0",
+    "engineSize": "6.5L V12",
+    "accessories": [
+      "Carbon-fiber body panels",
+      "Alcantara upholstery",
+      "Lamborghini Infotainment System"
+    ],
+    "functionalities": [
+      "All-Wheel Drive",
+      "Electronic Stability Control",
+      "Retractable soft-top roof"
+    ],
+    "rentalPrice": "$500",
+    "rentalCompany": "Supercar Rentals",
+    "address": "321 Example Road, Kharkiv, Ukraine",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nSecurity deposit and insurance required",
+    "mileage": 5832
+  },
+  {
+    "id": 9631,
+    "year": 2011,
+    "make": "Audi",
+    "model": "A5",
+    "type": "Convertible",
+    "img": "https://images.unsplash.com/photo-1616549972169-0a0d961c9905?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Audi A5 is a stylish and refined convertible that offers a perfect blend of elegance, cutting-edge technology, and exhilarating driving dynamics.",
+    "fuelConsumption": "8.5",
+    "engineSize": "2.0L Inline-4",
+    "accessories": [
+      "Bang & Olufsen 3D sound system",
+      "Audi Virtual Cockpit",
+      "Audi Drive Select"
+    ],
+    "functionalities": [
+      "Front-Wheel Drive",
+      "Quattro all-wheel drive available",
+      "Power-folding acoustic soft-top"
+    ],
+    "rentalPrice": "$150",
+    "rentalCompany": "Luxury Car Rentals",
+    "address": "987 Example Lane, Dnipro, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit and insurance required",
+    "mileage": 4635
+  },
+  {
+    "id": 9634,
+    "year": 2001,
+    "make": "BMW",
+    "model": "Z8",
+    "type": "Convertible",
+    "img": "https://images.unsplash.com/photo-1523796788785-5f55619c6342?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The BMW Z8 is a classic and timeless convertible that combines iconic retro-inspired design, outstanding performance, and luxurious comfort.",
+    "fuelConsumption": "14.2",
+    "engineSize": "4.9L V8",
+    "accessories": [
+      "Aluminum space frame",
+      "Nappa leather upholstery",
+      "Harman Kardon audio system"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Dynamic Stability Control",
+      "Power-operated soft-top roof"
+    ],
+    "rentalPrice": "$300",
+    "rentalCompany": "Classic Car Rentals",
+    "address": "654 Example Circle, Zaporizhzhia, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit and proof of insurance required",
+    "mileage": 5990
+  },
+  {
+    "id": 9655,
+    "year": 1998,
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "type": "Convertible",
+    "img": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Chevrolet Camaro is an American muscle car legend with a rich heritage, boasting aggressive styling, powerful engines, and exhilarating performance.",
+    "fuelConsumption": "13.5",
+    "engineSize": "5.7L V8",
+    "accessories": [
+      "Leather upholstery",
+      "Bose premium sound system",
+      "Performance suspension"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Limited-slip differential",
+      "Power-operated convertible top"
+    ],
+    "rentalPrice": "$200",
+    "rentalCompany": "Muscle Car Rentals",
+    "address": "123 Example Street, Lviv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit and insurance required",
+    "mileage": 6330
+  },
+  {
+    "id": 9685,
+    "year": 2006,
+    "make": "Mercedes-Benz",
+    "model": "SLK-Class",
+    "type": "Convertible",
+    "img": "https://images.unsplash.com/photo-1695156685804-6d8555941985?q=80&w=1164&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Mercedes-Benz SLK-Class is a luxurious and sporty convertible that offers a perfect balance of style, performance, and refinement, delivering an enjoyable open-top driving experience.",
+    "fuelConsumption": "9.8",
+    "engineSize": "3.5L V6",
+    "accessories": [
+      "Airscarf neck-level heating",
+      "Harman Kardon surround sound system",
+      "Magic Sky Control panoramic roof"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Dynamic Stability Control",
+      "Retractable hardtop roof"
+    ],
+    "rentalPrice": "$250",
+    "rentalCompany": "Luxury Car Rentals",
+    "address": "456 Example Avenue, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit and insurance required",
+    "mileage": 6280
+  },
+  {
+    "id": 9660,
+    "year": 2020,
+    "make": "Chrysler",
+    "model": "Voyager",
+    "type": "Van/Minivan",
+    "photoLink": "https://images.unsplash.com/photo-1542075518760-4c108925a0e5?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Chrysler Voyager is a practical and versatile van/minivan that provides comfortable seating, ample cargo space, and a range of convenient features for family-oriented transportation.",
+    "fuelConsumption": "8.2",
+    "engineSize": "3.6L V6",
+    "accessories": [
+      "Stow 'n Go seating",
+      "Uconnect infotainment system",
+      "Blind Spot Monitoring"
+    ],
+    "functionalities": [
+      "Front-Wheel Drive",
+      "Electronic Stability Control",
+      "Power sliding side doors"
+    ],
+    "rentalPrice": "$100",
+    "rentalCompany": "Family Car Rentals",
+    "address": "789 Example Boulevard, Odesa, Ukraine",
+    "rentalConditions": "Minimum age: 21\nValid driver's license\nSecurity deposit and insurance required",
+    "mileage": 5807
+  },
+  {
+    "id": 9630,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Rio",
+    "type": "Hatchback",
+    "photoLink": "https://images.unsplash.com/photo-1592805723127-004b174a1798?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Kia Rio is a compact and fuel-efficient hatchback that offers a blend of affordability, reliability, and practicality, making it an excellent choice for urban commuting and everyday driving.",
+    "fuelConsumption": "6.2",
+    "engineSize": "1.6L 4-cylinder",
+    "accessories": [
+      "Apple CarPlay and Android Auto integration",
+      "Smart Key with Push Button Start",
+      "Automatic climate control"
+    ],
+    "functionalities": [
+      "Front-Wheel Drive",
+      "Electronic Stability Control",
+      "Rearview camera"
+    ],
+    "rentalPrice": "$50",
+    "rentalCompany": "Economy Car Rentals",
+    "address": "321 Example Lane, Kharkiv, Ukraine",
+    "rentalConditions": "Minimum age: 21\nValid driver's license\nSecurity deposit and insurance required",
+    "mileage": 4618
+  },
+  {
+    "id": 9618,
+    "year": 2020,
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "type": "SUV",
+    "photoLink": "https://images.unsplash.com/photo-1620547316190-289b3899e010?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "The Land Rover Range Rover Sport is a premium SUV that offers a perfect blend of luxury, off-road capability, and dynamic performance, providing a refined driving experience both on and off the road.",
+    "fuelConsumption": "11.8",
+    "engineSize": "3.0L V6",
+    "accessories": [
+      "Premium Windsor leather seats",
+      "Meridian surround sound system",
+      "Adaptive Dynamics suspension"
+    ],
+    "functionalities": [
+      "All-Wheel Drive",
+      "Terrain Response 2 system",
+      "Power-operated gesture tailgate"
+    ],
+    "rentalPrice": "$300",
+    "rentalCompany": "Luxury SUV Rentals",
+    "address": "654 Example Street, Lviv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit and insurance required",
+    "mileage": 4856
+  },
+  {
+    "id": 9630,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Rio",
+    "type": "Sedan, Hatchback",
+    "photoLink": "https://res.cloudinary.com/ditdqzoio/image/upload/v1687252635/cars/kia_rio_sedan_hatchback.jpg",
+    "description": "The Kia Rio is a versatile and fuel-efficient vehicle available in both sedan and hatchback body styles, offering a comfortable cabin, modern features, and a smooth driving experience, making it an attractive choice for urban commuters.",
+    "fuelConsumption": "6.2",
+    "engineSize": "1.6L 4-cylinder",
+    "accessories": [
+      "Apple CarPlay and Android Auto integration",
+      "Smart Key with Push Button Start",
+      "Automatic climate control"
+    ],
+    "functionalities": [
+      "Front-Wheel Drive",
+      "Electronic Stability Control",
+      "Rearview camera"
+    ],
+    "rentalPrice": "$50",
+    "rentalCompany": "Economy Car Rentals",
+    "address": "321 Example Lane, Kharkiv, Ukraine",
+    "rentalConditions": "Minimum age: 21\nValid driver's license\nSecurity deposit and insurance required",
+    "mileage": 6234
+  },
+  
+{
+"id": 8742,
+"year": 2023,
+"make": "Toyota",
+"model": "Corolla",
+"type": "Sedan",
+"photoLink": "https://images.unsplash.com/photo-1626072557464-90403d788e8d?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"description": "The Toyota Corolla, a reliable and efficient sedan, provides a balanced combination of comfort and performance. With its sleek design and advanced features, the Corolla is an excellent choice for those seeking a dependable and stylish vehicle for daily commuting.",
+"fuelConsumption": "5.8",
+"engineSize": "1.8L 4-cylinder",
+"accessories": [
+"Toyota Safety Sense™ P",
+"8-inch touchscreen display",
+"Wireless smartphone charging"
+],
+"functionalities": [
+"Front-Wheel Drive",
+"Lane Departure Warning",
+"Adaptive Cruise Control"
+],
+"rentalPrice": "$55",
+"rentalCompany": "City Car Rentals",
+"address": "456 Sample Street, Barcelona, Spain",
+"rentalConditions": "Minimum age: 25\nValid driver's license\nRefundable security deposit and insurance required",
+"mileage": 7890
+},
+{
+  "id": 8741,
+  "year": 2021,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "type": "Sedan",
+  "photoLink": "https://images.unsplash.com/photo-1644907961094-8852aca773d8?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "description": "The Hyundai Elantra is a stylish and efficient sedan, perfect for those who appreciate a blend of modern design and advanced technology. With a spacious interior, fuel-efficient engine, and intuitive infotainment system, the Elantra delivers a delightful driving experience.",
+  "fuelConsumption": "5.5",
+  "engineSize": "2.0L 4-cylinder",
+  "accessories": [
+    "Wireless smartphone charging",
+    "Blind-Spot Collision-Avoidance Assist",
+    "8-inch touchscreen display"
+  ],
+  "functionalities": [
+    "Front-Wheel Drive",
+    "Lane Keeping Assist",
+    "Rear Cross-Traffic Collision-Avoidance Assist"
+  ],
+  "rentalPrice": "$55",
+  "rentalCompany": "City Car Rentals",
+  "address": "789 Sample Avenue, Milan, Italy",
+  "rentalConditions": "Minimum age: 25\nValid driver's license\nCredit card for security deposit and insurance",
+  "mileage": 4123
+},
+    {
+  "id": 7425,
+  "year": 2023,
+  "make": "Ford",
+  "model": "Focus",
+  "type": "Hatchback",
+  "photoLink": "https://images.unsplash.com/photo-1697037360132-fa3cd63bf154?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "description": "The Ford Focus is a dynamic and sporty hatchback, designed for those who crave a responsive and enjoyable driving experience. With its sleek exterior, advanced technology features, and agile handling, the Focus is an excellent choice for urban adventures.",
+  "fuelConsumption": "6.0",
+  "engineSize": "1.5L 3-cylinder",
+  "accessories": [
+    "SYNC 3 infotainment system",
+    "Wireless Apple CarPlay and Android Auto",
+    "Keyless Entry with Push Button Start"
+  ],
+  "functionalities": [
+    "Front-Wheel Drive",
+    "AdvanceTrac Electronic Stability Control",
+    "Rear Parking Sensors"
+  ],
+  "rentalPrice": "$60",
+  "rentalCompany": "City Car Hire",
+  "address": "456 Sample Street, Berlin, Germany",
+  "rentalConditions": "Minimum age: 25\nValid driver's license\nCredit card for security deposit and insurance",
+  "mileage": 3789
+},
+{
+  "id": 8742,
+  "year": 2021,
+  "make": "Nissan",
+  "model": "Versa",
+  "type": "Sedan",
+  "photoLink": "https://images.unsplash.com/photo-1666899709854-e190c03767eb?q=80&w=1392&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "description": "The Nissan Versa is an efficient and affordable sedan, known for its reliability and practicality. Offering a spacious interior, modern amenities, and excellent fuel efficiency, the Versa is a great choice for budget-conscious and eco-friendly drivers.",
+  "fuelConsumption": "5.8",
+  "engineSize": "1.6L 4-cylinder",
+  "accessories": [
+    "7-inch touchscreen display",
+    "Bluetooth Hands-Free Phone System",
+    "Remote keyless entry"
+  ],
+  "functionalities": [
+    "Front-Wheel Drive",
+    "Vehicle Dynamic Control",
+    "Traction Control System"
+  ],
+  "rentalPrice": "$45",
+  "rentalCompany": "Affordable Rentals",
+  "address": "789 Sample Avenue, Lviv, Ukraine",
+  "rentalConditions": "Minimum age: 21\nValid driver's license\nSecurity deposit required",
+  "mileage": 4875
+},
+{
+  "id": 5678,
+  "year": 2022,
+  "make": "Honda",
+  "model": "Civic",
+  "type": "Sedan",
+  "photoLink": "https://images.unsplash.com/photo-1594070319944-7c0cbebb6f58?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "description": "The Honda Civic is a stylish and efficient sedan, known for its reliability and cutting-edge technology. With a spacious and well-designed interior, the Civic offers a comfortable driving experience along with fuel efficiency, making it an ideal choice for city dwellers.",
+  "fuelConsumption": "5.5",
+  "engineSize": "2.0L 4-cylinder",
+  "accessories": [
+    "Honda Sensing® suite of safety and driver-assistive technologies",
+    "Apple CarPlay and Android Auto integration",
+    "Dual-Zone Automatic Climate Control"
+  ],
+  "functionalities": [
+    "Front-Wheel Drive",
+    "Collision Mitigation Braking System™",
+    "Lane Keeping Assist System"
+  ],
+  "rentalPrice": "$55",
+  "rentalCompany": "City Car Rentals",
+  "address": "456 Sample Street, Paris, France",
+  "rentalConditions": "Minimum age: 25\nValid driver's license\nCredit card for security deposit and insurance",
+  "mileage": 4120
+},
+{
+  "id": 7893,
+  "year": 2021,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "type": "Sedan",
+  "photoLink": "https://images.unsplash.com/photo-1701288937167-49c0dd9dcd51?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "description": "The Chevrolet Malibu is a refined and comfortable sedan, known for its spacious interior and advanced safety features. With a sleek design and modern technology, the Malibu offers a smooth and enjoyable ride, making it a great choice for both business and leisure travel.",
+  "fuelConsumption": "6.0",
+  "engineSize": "1.5L 4-cylinder",
+  "accessories": [
+    "8-inch touchscreen infotainment system",
+    "Apple CarPlay and Android Auto integration",
+    "Dual-zone automatic climate control"
+  ],
+  "functionalities": [
+    "Front-Wheel Drive",
+    "Lane Change Alert with Side Blind Zone Alert",
+    "Rear Vision Camera"
+  ],
+  "rentalPrice": "$52",
+  "rentalCompany": "City Car Rentals",
+  "address": "789 Sample Avenue, Madrid, Spain",
+  "rentalConditions": "Minimum age: 25\nValid driver's license\nCredit card for security deposit and insurance",
+  "mileage": 5400
+},
+{
+  "id": 8743,
+  "year": 2022,
+  "make": "Volkswagen",
+  "model": "Golf",
+  "type": "Hatchback",
+  "photoLink": "https://images.unsplash.com/photo-1531420853064-43de9aa4366b?q=80&w=1373&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "description": "The Volkswagen Golf is a sporty and versatile hatchback, renowned for its dynamic performance and practical design. With a responsive engine, high-quality interior, and advanced safety features, the Golf is a popular choice for those who seek both style and functionality in their daily drive.",
+  "fuelConsumption": "5.5",
+  "engineSize": "1.4L 4-cylinder",
+  "accessories": [
+    "8-inch touchscreen infotainment system",
+    "Wireless smartphone charging",
+    "Adaptive Cruise Control"
+  ],
+  "functionalities": [
+    "Front-Wheel Drive",
+    "Electronic Stability Control",
+    "Lane Assist"
+  ],
+  "rentalPrice": "$55",
+  "rentalCompany": "City Car Rentals",
+  "address": "456 Sample Street, Amsterdam, Netherlands",
+  "rentalConditions": "Minimum age: 25\nValid driver's license\nCredit card for security deposit and insurance",
+  "mileage": 4890
+},
+{
+  "id": 8744,
+  "year": 2022,
+  "make": "Subaru",
+  "model": "Impreza",
+  "type": "Hatchback",
+  "photoLink": "https://images.unsplash.com/photo-1616938947157-6c6dc03d6d33?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "description": "The Subaru Impreza is a versatile and reliable hatchback, renowned for its all-wheel-drive capability and safety features. With a spacious interior, advanced technology, and a reputation for durability, the Impreza is an excellent choice for those who prioritize performance and practicality.",
+  "fuelConsumption": "6.0",
+  "engineSize": "2.0L 4-cylinder",
+  "accessories": [
+    "SUBARU STARLINK® multimedia system",
+    "EyeSight® Driver Assist Technology",
+    "Automatic climate control"
+  ],
+  "functionalities": [
+    "All-Wheel Drive",
+    "Vehicle Dynamics Control",
+    "Rear Vision Camera"
+  ],
+  "rentalPrice": "$55",
+  "rentalCompany": "City Car Rentals",
+  "address": "456 Sample Street, Vienna, Austria",
+  "rentalConditions": "Minimum age: 25\nValid driver's license\nCredit card for security deposit and insurance",
+  "mileage": 4800
+}
+
+
+
+]
