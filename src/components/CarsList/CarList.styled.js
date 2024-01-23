@@ -24,7 +24,7 @@ export const LoadMore = styled.button`
   line-height: 24px; /* 150% */
   text-decoration-line: underline;
   cursor: pointer;
-  transition: background 0.3s;
+  transition: background 0.4s;
   &:hover {
     color: #0b44cd;
   }
