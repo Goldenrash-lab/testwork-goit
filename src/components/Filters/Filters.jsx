@@ -82,6 +82,9 @@ const Filters = ({ filter }) => {
       <Label>
         Car brand
         <SelectBrand
+          components={{
+            IndicatorSeparator: () => null,
+          }}
           onChange={setSelectBrand}
           options={[{ value: "", label: "All Cars" }, ...brands]}
           placeholder="Enter the text"
@@ -130,6 +133,9 @@ const Filters = ({ filter }) => {
       <Label>
         Price/ 1 hour
         <SelectPrice
+          components={{
+            IndicatorSeparator: () => null,
+          }}
           onChange={setSelectPrice}
           options={[{ value: "", label: "All Prices" }, ...prices]}
           placeholder="To"

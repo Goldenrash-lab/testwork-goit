@@ -11,7 +11,6 @@ export const Form = styled.form`
 export const Button = styled.button`
   appearance: button;
   backface-visibility: hidden;
-  background-color: #405cf5;
   border-radius: 6px;
   border-width: 0;
   box-shadow: rgba(50, 50, 93, 0.1) 0 0 0 1px inset,
@@ -44,6 +43,10 @@ export const Button = styled.button`
   display: flex;
   justify-content: center;
   align-items: center;
+  transition: background 0.3s;
+  &:hover {
+    background: #0b44cd;
+  }
   &:disabled {
     cursor: default;
   }

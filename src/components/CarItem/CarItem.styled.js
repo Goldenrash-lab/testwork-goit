@@ -77,6 +77,10 @@ export const Btn = styled.button`
   font-style: normal;
   font-weight: 600;
   line-height: 20px; /* 142.857% */
+  transition: background 0.3s;
+  &:hover {
+    background: #0b44cd;
+  }
 `;
 export const ImgCar = styled.img`
   width: 274px;

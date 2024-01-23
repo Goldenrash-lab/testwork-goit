@@ -1,7 +1,7 @@
 import { useDispatch, useSelector } from "react-redux";
 import CarsList from "../CarsList/CarsList";
 import Filters from "../Filters/Filters";
-import { useCallback, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { getAllCar, getAllCarWithFilteres } from "../../store/cars/thunk";
 import { selectCars } from "../../store/cars/selectors";
 import { LoadMore } from "../CarsList/CarList.styled";
