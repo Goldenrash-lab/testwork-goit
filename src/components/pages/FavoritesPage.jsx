@@ -48,8 +48,6 @@ const FavoritesPage = () => {
       .catch((error) => toast.error(error));
   }, [addToFiltered, dispatch]);
 
-  // console.log("cars", cars);
-
   return (
     <section>
       {filtered && <HeaderTitle>Your favorites cars:</HeaderTitle>}

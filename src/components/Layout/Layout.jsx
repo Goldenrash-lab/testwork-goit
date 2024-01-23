@@ -14,7 +14,6 @@ import Loader from "../Loader/Loader";
 
 const Layout = () => {
   const loader = useSelector((state) => state.loader.isLoading);
-  console.log(loader);
   if (loader) {
     document.body.style.overflow = "hidden";
   } else {

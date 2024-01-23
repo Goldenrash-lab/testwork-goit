@@ -68,30 +68,6 @@ const Modal = ({ close, car }) => {
     };
   }, [close]);
 
-  // function checkMileage(mileage) {
-  //   if (mileage > 999 && mileage < 10000) {
-  //     const newMileage = [...mileage.toString()];
-  //     newMileage.splice(1, 0, ",");
-  //     return newMileage;
-  //   } else if (mileage > 9999 && mileage < 100000) {
-  //     const newMileage = [...mileage.toString()];
-  //     newMileage.splice(2, 0, ",");
-  //     return newMileage;
-  //   } else if (mileage > 99999 && mileage < 1000000) {
-  //     const newMileage = [...mileage.toString()];
-  //     newMileage.splice(3, 0, ",");
-  //     return newMileage;
-  //   } else if (mileage > 999999 && mileage < 10000000) {
-  //     const newMileage = [...mileage.toString()];
-  //     newMileage.splice(1, 0, ",");
-  //     newMileage.splice(5, 0, ",");
-  //     console.log(newMileage);
-  //     return newMileage;
-  //   } else {
-  //     return mileage;
-  //   }
-  // }
-
   return (
     <Backdrop>
       <ModalWindow ref={modalRef}>

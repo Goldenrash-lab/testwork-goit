@@ -19,7 +19,6 @@ const CatalogPage = () => {
   const cars = useSelector(selectCars);
 
   function getFilter(obj) {
-    console.log(obj);
     setQuery(obj);
   }
 
@@ -70,7 +69,7 @@ const CatalogPage = () => {
       return cars;
     }
   }
-  console.log(+query.from);
+
   return (
     <>
       <section>
